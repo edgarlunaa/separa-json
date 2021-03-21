@@ -1,0 +1,28 @@
+﻿{
+    "Emprendedor": [
+      {
+        "Direcciñon de correo electrónico": "leonmaxi@gmail.com",
+        "Nombre completo": "maximiliano",
+        "Apellido": "gorski",
+        "CUIT": "23234453629",
+        "Condición impositiva": "algo que decir",
+        "Edad": "34",
+        "Teléfono celular": "3513883708",
+        "Dirección": "lima 143",
+        "Departamento": "CAPITAL",
+        "¿Con qué género te identificas?": "masculino",
+        "Nivel educativo alcanzado": "primario inc"
+      }
+    ],
+    "Emprendimiento": [
+      {
+        "Nombre del Emprendimiento": "maxiviento",
+        "Ubicación del Emprendimiento": "aca nomas hace rato",
+        "Cantidad de personas que forman parte del Emprendimiento": "23",
+        "Sitio web y/o redes sociales del Emprendimiento": "gorski.com.ar",
+        "Rubro al que pertenece el Emprendimiento": "Tecnología",
+        "Describi brevemente qué productos o servicios ofrece el Emprendimiento": "pandas",
+        "¿Cuáles son tus espectativas con respecto a la Capacitación en Comercio Electrónico?": "algo para hacer"
+      }
+    ]
+  } 
